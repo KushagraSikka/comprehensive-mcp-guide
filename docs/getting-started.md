@@ -1,1 +1,4 @@
-# Getting Started with MCP - Complete beginner guide with installation, setup, and examples
+# 🚀 Getting Started with Model Context Protocol (MCP)
+
+## 📋 Table of Contents
+- [What is MCP?](#what-is-mcp)
