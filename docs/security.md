@@ -1,1 +1,2 @@
-# Security Best Practices - Authentication, authorization, data privacy, and enterprise security
+# 🔒 MCP Security Best Practices
+## Security Feature 1
