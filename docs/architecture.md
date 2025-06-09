@@ -1,1 +1,1 @@
-# MCP Architecture Deep Dive - Technical specifications and design patterns
+# MCP Architecture - Client-server design, JSON-RPC protocol, and implementation patterns
